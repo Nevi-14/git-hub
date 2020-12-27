@@ -21,9 +21,9 @@ class orderController extends Controller
     }fqwfwqfwqf
 
     {{ Auth::user()->staff->first_name}} {{Auth::user()->staff->last_name }}
+r32r32r
 
-
-
+23r23r
 
     /**
      * Show the form for creating a new resource.
