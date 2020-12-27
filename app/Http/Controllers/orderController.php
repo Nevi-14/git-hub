@@ -18,7 +18,12 @@ class orderController extends Controller
     public function index()
     {
         //
-    }
+    }fqwfwqfwqf
+
+    {{ Auth::user()->staff->first_name}} {{Auth::user()->staff->last_name }}
+
+
+
 
     /**
      * Show the form for creating a new resource.
